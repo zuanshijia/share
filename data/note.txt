@@ -1,1 +1,1 @@
-﻿{"time":8,"interval":1000,"text":"你好你好"}
+﻿{"time":8,"interval":1000,"text":"此为程**专编严禁外传"}
