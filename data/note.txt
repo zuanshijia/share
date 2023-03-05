@@ -1,1 +1,1 @@
-﻿{"time":60,"interval":1500,"text":"电视直播Lite1.0.4更新，全面EPG更改。"}
+﻿{"time":60,"interval":1500,"text":"电视直播Lite1.0.5更新，频道直播源全部重做。"}
